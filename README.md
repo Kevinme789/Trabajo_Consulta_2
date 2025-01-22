@@ -133,6 +133,7 @@ object MySQLConexion {
 
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/4afb45b4-5a95-496f-8528-7f66d03cd5cf" />
 
+---
 
 ## Referencias
 Ejemplo de conexión JDBC de Scala y SELECT de SQL | alvinalexander.com. (n.d.). https://alvinalexander.com/scala/scala-jdbc-connection-mysql-sql-select-example/
